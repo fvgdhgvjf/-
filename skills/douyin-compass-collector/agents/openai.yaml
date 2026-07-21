@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin Compass Collector"
+  short_description: "Maintain and run the Douyin Compass live explain collector"
+  default_prompt: "Use $douyin-compass-collector to run or maintain the Douyin Compass live product explain collection workflow."
